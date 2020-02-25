@@ -1,5 +1,3 @@
-
-
 console.log("sup G")
 
 const form = document.querySelector('form') // grabbing an element
