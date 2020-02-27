@@ -6,6 +6,8 @@ With the follwing features:
 * Dogs can send a woof
 * Dogs can see all woofs that have been sent
 
+![](WooferDemo.gif)
+
 ## To run client
 ```bash
 cd client
