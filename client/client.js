@@ -3,7 +3,8 @@ console.log("sup G")
 const form = document.querySelector('form') // grabbing an element
 const loadingElement = document.querySelector('.loading')
 const woofsElement = document.querySelector('.woofs')
-const API_URL = 'http://localhost:5000/woofs'
+// const API_URL = 'http://localhost:5000/woofs'
+const API_URL = 'https://damp-oasis-89764.herokuapp.com/woofs'
 
 loadingElement.style.display = '' 
 
